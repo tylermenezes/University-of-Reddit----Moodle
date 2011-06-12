@@ -1,0 +1,5 @@
+Copy the root ureddit folder into the root of your Moodle web directory.
+
+Copy the ureddit folder in auth into the "auth" directory in Moodle, then activate it in [yourmoodlesite]/admin/settings.php?section=manageauths.
+
+Done!
